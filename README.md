@@ -1,6 +1,6 @@
 # bot_assistent
 
-### Bot assistent in Telegram messenger. Help you to organise your day, play with or even send you funny gifs
+### Bot assistent in Telegram messenger. Help you to organise your day, play with you or even send you funny gifs
 
 ## Run
 
