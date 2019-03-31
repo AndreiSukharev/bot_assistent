@@ -1,4 +1,4 @@
-from giphy import gif
+from app.giphy import gif
 import random
 from datetime import datetime
 import telebot
