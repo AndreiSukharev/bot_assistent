@@ -10,7 +10,7 @@ python bot.py
 
 ## Deployment, using Heroku
 
-#####Install the Heroku CLI
+##### Install the Heroku CLI
 
 Download and install the Heroku CLI.
 
