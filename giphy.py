@@ -1,8 +1,9 @@
 import giphy_client
 from giphy_client.rest import ApiException
 
-
 # using API Giphy to take gifs
+
+
 def gif(client_tag):
     api_instance = giphy_client.DefaultApi()
     api_key = 'dMuxvuGTGZmp7USqPGpO9NgorR5SAYxB'  # str | Giphy API Key.
